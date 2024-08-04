@@ -1,5 +1,5 @@
 # GameOfLife
-Game of life devolepd in CThe Game of life is a popular simulation game developed by the mathematician John Conway in 1970. The game of life was presented as, what is called now, cellular automaton. With simple rules, the game yields non-trial, complex patterns that evolve overtime. 
+Game of life devolepd in C and ncurses. The Game of life is a popular simulation game developed by the mathematician John Conway in 1970. The game of life was presented as, what is called now, cellular automaton. With simple rules, the game yields non-trial, complex patterns that evolve overtime. 
 The game consists of a discrete time, infinite two dimensional orthogonal grid of square cells. Each cell can be in one of two states, live or dead. Every cell interacts with its eight neighbours(horizontal, vertical and diagonal adjacent) and according to a fixed set of rules, the state of the next step will be decided. The rules are 4:
 
   1. Any live cell with fewer than two live cells in their neighbourhood dies, as if caused by underpopulation.
